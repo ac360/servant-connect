@@ -27,6 +27,7 @@ gem 'binding_of_caller', '>= 0.6.8', :group => :development
 gem 'bootstrap-sass', '>= 2.2.2.0'
 gem 'backbone-on-rails'
 gem 'figaro'
+gem 'google-webfonts'
 
 
 # To use ActiveModel has_secure_password
